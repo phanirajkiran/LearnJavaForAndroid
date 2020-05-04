@@ -3,3 +3,4 @@
 Started reading in Mar 22, 2016, finished it at night in Jan 24, 2017.
 
 Read it both for Java learning and English learning:)
+Test egit
